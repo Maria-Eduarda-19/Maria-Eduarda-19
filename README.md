@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! 👋 Eu sou a Maria Eduarda
 
-<!--
-**Maria-Eduarda-19/Maria-Eduarda-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** com paixão por tecnologia, programação e soluções criativas.  
+🚀 Tenho experiência prática em **desenvolvimento front-end** (React, React Native) e estou sempre explorando novas ferramentas e frameworks.  
+📊 Também possuo conhecimento em **análise de dados**, adquiridos tanto na faculdade quanto em projetos pessoais e colaborativos.  
 
-Here are some ideas to get you started:
+💡 Atualmente, participo de projetos que envolvem:
+- Desenvolvimento de aplicativos móveis com **React Native**
+- Colaboradora do projeto BayArea IESB 
+- Integração de APIs e controle de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo: atuar como **estagiária ou desenvolvedora júnior** para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para soluções inovadoras.
+📬 **Contato:** [LinkedIn](https://www.linkedin.com/in/maria-eduarda-fernandes-calado-39b627198) | [E-mail](dudacalado2006@gmail.com)

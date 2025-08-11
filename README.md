@@ -11,12 +11,12 @@
 
 Algumas colaboraçãoes que eu fiz
 
-  📦MedTimely 
+  ###📦MedTimely 
   Aplicativo de lembrete de medicação feito com React Native e Expo.
   Gerencie horários, dias da semana e receba notificações para não esquecer seus medicamentos.
 🔗 [Repositório]([https://github.com/colega/projeto-medicamentos](https://github.com/dudamegc/MedTimely.git))
 
-### 📊 Simulador criado em Python para calcular os rendimentos de uma aplicação financeira fictícia chamada Caixinha Super Cofrinho , baseada em uma taxa anual de 14,15% .
+### 📊 Simulador criado em Python para calcular os rendimentos de uma aplicação financeira fictícia chamada Caixinha Super Cofrinho, baseada em uma taxa anual de 14,15%.
 O sistema simula uma aplicação real, considerando impostos como IOF e IR, com base no tempo de aplicação informada pelo usuário. 
 🔗 [Repositório]([https://github.com/seuusuario/dashboard](https://github.com/dudamegc/cofrinho-python.git))
 

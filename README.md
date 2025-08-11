@@ -11,7 +11,7 @@
 
 Algumas colaboraçãoes que eu fiz
 
-  ###📦MedTimely 
+  ###  💊 MedTimely
   Aplicativo de lembrete de medicação feito com React Native e Expo.
   Gerencie horários, dias da semana e receba notificações para não esquecer seus medicamentos.
 🔗 [Repositório]([https://github.com/colega/projeto-medicamentos](https://github.com/dudamegc/MedTimely.git))
